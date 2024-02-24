@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### BUENAS 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Lenguajes que uso👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
 <!--
 **Redumih/Redumih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
