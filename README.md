@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguajes que uso👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">My skills</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
